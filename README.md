@@ -1,7 +1,7 @@
 # Astronauta
 
 ```
-Página web feita apenas em html, não responsiva, sobre astronautas.
+Página web sobre astronautas, feita apenas em html e utilizando frames.
 ```
 
 ## Tecnologia utilizada
